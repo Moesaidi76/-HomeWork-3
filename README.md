@@ -1,5 +1,19 @@
 
-HomeWork-3
+## HomeWork-3
+
+```
+Generate Password 
+
+```
+
+### Description 
+
+```
+In this acticity we generate a password based on certain criteria. 
+
+```
+
+# Activity Story 
 
 ```
 AS AN employee with access to sensitive data
@@ -26,4 +40,6 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
+
+
 
